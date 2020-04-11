@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/India/jio.com.channels.xml" size="big"
 #EXTINF:-1 tvg-id="ddnational.in" tvg-name="HINDI | DD NATIONAL" tvg-logo="https://i.imgur.com/W0AZp1c.png" group-title="HINDI",HINDI | DD NATIONAL
 http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+#EXTINF:-1 tvg-id="ddnational.in" tvg-name="HINDI | DD BHARTI" tvg-logo="https://i.imgur.com/W0AZp1c.png" group-title="HINDI",HINDI | DD BHARTI
+http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8

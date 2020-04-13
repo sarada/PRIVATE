@@ -1,10 +1,10 @@
 #EXTM3U 
 #EXTINF:-1,DD Bharti Zee
-http://zee18.site/zee/get.php?channel=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
+http://bolly360.xyz/zee.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
 #EXTINF:-1, DD Bharti MX
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
 #EXTINF:-1, DD National HD Zee
-http://zee18.site/zee/get.php?channel=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+http://bolly360.xyz/zee.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
 #EXTINF:-1,DD National MX
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 #EXTINF:-1, DD National 
@@ -12,7 +12,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE TV HD 
-http://zee18.site/zee/get.php?channel=zeetvhd&e=.m3u8
+http://bolly360.xyz/zee.php?c=zeetvhd&e=.m3u8
 #EXTINF:-1, ZEE TV 
 https://bracnet.iptv.jadoodigital.com/live/zee_tv/chunks.m3u8
 #EXTINF:-1,Star Plus HD
@@ -37,38 +37,44 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_576/index.m3u8
 https://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1, Colors HD
 https://bracnet.iptv.jadoodigital.com/live/colors_hd/chunks.m3u8
+#EXTINF:-1, Colors HD TS
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/colorstv/playlist.m3u8
 #EXTINF:-1, Colors HD (B)
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1, Apka Colors
 http://ok2.se:8000/live/35b8F1UxvM5ef5gbw/8272F1UYi5JY3e32s/6902.ts
 #EXTINF:-1,Big magic 
-http://zee18.site/zee/get.php?channel=bigmagic&e=.m3u8
+http://bolly360.xyz/zee.php?c=bigmagic&e=.m3u8
 #EXTINF:-1,ZEE ANMOL 
-http://zee18.site/zee/get.php?channel=zeeanmol&e=.m3u8
+http://bolly360.xyz/zee.php?c=zeeanmol&e=.m3u8
 #EXTINF:-1,&TV 
-http://zee18.site/zee/get.php?channel=andtvsd&e=.m3u8
+http://bolly360.xyz/zee.php?c=andtvsd&e=.m3u8
 #EXTINF:-1,&TV HD
-http://zee18.site/zee/get.php?channel=andtvhd&e=.m3u8
+http://bolly360.xyz/zee.php?c=andtvhd&e=.m3u8
+#EXTINF:-1,&TV HD TS
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/andtvhd/playlist.m3u8
 #EXTINF:-1, &TV HD 
 http://45.120.188.76:8080/0.ts
 #EXTINF:-1,&xplor HD Zee
-http://tv.flametv.design/zee5.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
+http://flametv.design/zee5.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
 #EXTINF:-1,&pictures 
-http://zee18.site/zee/get.php?channel=andpicssd&e=.m3u8
+http://bolly360.xyz/zee.php?c=andpicssd&e=.m3u8
+#EXTINF:-1,&pictures TS
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/andpictureshd/playlist.m3u8
 #EXTINF:-1,&pictures HD 
-http://zee18.site/zee/get.php?channel=andpicshd&e=.m3u8
+http://bolly360.xyz/zee.php?c=andpicshd&e=.m3u8
 #EXTINF:-1,Zee Bollywood 
-http://zee18.site/zee/get.php?channel=classic&e=.m3u8
+http://bolly360.xyz/zee.php?c=classic&e=.m3u8
 #EXTINF:-1,Zee Action 
-http://zee18.site/zee/get.php?channel=action&e=.m3u8
+http://bolly360.xyz/zee.php?c=action&e=.m3u8
 #EXTINF:-1,ZEE ANMOL CINEMA
-http://zee18.site/zee/get.php?channel=zanmolcnm&e=.m3u8
+http://bolly360.xyz/zee.php?c=zanmolcnm&e=.m3u8
 #EXTINF:-1,ZEE cinema
 https://bracnet.iptv.jadoodigital.com/live/zee_cinema/chunks.m3u8
 #EXTINF:-1,ZEE cinema SD
 https://streamer-1.toffeelive.com/live/zee_cinema_576/index.m3u8
 #EXTINF:-1,ZEE CINEMA HD
-http://zee18.site/zee/get.php?channel=zcinemahd&e=.m3u8
+http://bolly360.xyz/zee.php?c=zcinemahd&e=.m3u8
 #EXTINF:-1,SONY WAH 
 https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1578821400_a2c4a6c5c67a46823ffd94872aa237fa
 #EXTINF:-1,SET MAX FHD
@@ -81,12 +87,20 @@ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/master.m3u8??hd
 https://sony247channels.akamaized.net/hls/live/2009816/MAX2/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne/master_3500.m3u8
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1, STAR UTSAV MOVIES
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/starutsavmovies/playlist.m3u8
+#EXTINF:-1, RISHTEY CINEPLEX UK
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/rishteycineplexuk/playlist.m3u8
 #EXTINF:-1,STAR GOLD 
 https://bracnet.iptv.jadoodigital.com/live/star_gold/chunks.m3u8
+#EXTINF:-1,STAR GOLD TL
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/stargold/playlist.m3u8
 #EXTINF:-1,STAR GOLD HS
 http://jiocdn.fun/my/h2x.php?c=stargold&e=.m3u8
 #EXTINF:-1,STAR GOLD2
 https://bracnet.iptv.jadoodigital.com/live/movies_ok/chunks.m3u8
+#EXTINF:-1,UTV MOVIES INTNTL
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/utvmoviesint/playlist.m3u8
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
@@ -145,19 +159,19 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581
 #EXTINF:-1,CNBC Bajar
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1,Zee business 
-http://zee18.site/zee/get.php?channel=zeebusiness&e=.m3u8
+http://bolly360.xyz/zee.php?c=zeebusiness&e=.m3u8
 #EXTINF:-1,Zee News 
-http://zee18.site/zee/get.php?channel=zeenews&e=.m3u8
+http://bolly360.xyz/zee.php?c=zeenews&e=.m3u8
 #EXTINF:-1,Zee HINDUSTAN
-http://zee18.site/zee/get.php?channel=hindustan&e=.m3u8
+http://bolly360.xyz/zee.php?c=hindustan&e=.m3u8
 #EXTINF:-1,Zee Rajasthan
-http://zee18.site/zee/get.php?channel=rajasthan&e=.m3u8
+http://bolly360.xyz/zee.php?c=rajasthan&e=.m3u8
 #EXTINF:-1,FIRST INDIA RAJASTHAN
 https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in_480p/index.m3u8
 #EXTINF:-1,News18 Rajasthan
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
 #EXTINF:-1,Zee MP-CG
-http://zee18.site/zee/get.php?channel=newsmpcg&e=.m3u8
+http://bolly360.xyz/zee.php?c=newsmpcg&e=.m3u8
 #EXTINF:-1, ABP NEWS HD 
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:-1, Amar Ujala 
@@ -212,7 +226,7 @@ https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1,Wion News
 http://zee18.site/zee/get.php?channel=wion&e=.m3u8
 #EXTINF:-1,Bloomberg Quint
-http://zee18.site/zee/get.php?channel=bquint&e=.m3u8
+http://bolly360.xyz/zee.php?c=bquint&e=.m3u8
 #EXTINF:-1,India Today
 https://vidcdn.vidgyor.com/it-origin/live1/playlist.m3u8
 #EXTINF:-1 ,Et Now
@@ -242,17 +256,21 @@ http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1,Mastii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,9XM zee
-http://zee18.site/zee/get.php?channel=9xm&e=.m3u8
+http://bolly360.xyz/zee.php?c=9xm&e=.m3u8
 #EXTINF:-1,9XM MX
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1, B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1,ZING 
-http://zee18.site/zee/get.php?channel=zing&e=.m3u8
+http://bolly360.xyz/zee.php?c=zing&e=.m3u8
+#EXTINF:-1, MTV beats HD
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/playlist.m3u8
 #EXTINF:-1, MTV beats 
 https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
 #EXTINF:-1,9XM ST
 https://streamer-1.toffeelive.com/live/9xm_576/index.m3u8
+#EXTINF:-1, E24
+http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/e24/playlist.m3u8
 #EXTINF:-1,ZOOM-1
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,ZOOM-2
@@ -337,9 +355,9 @@ http://zee18.site/zee/get.php?channel=andflixhd&e=.m3u8
 #EXTINF:-1,MGM US
 https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1,ZEE CAFE HD 
-http://zee18.site/zee/get.php?channel=zeecafehd&e=.m3u8
+http://bolly360.xyz/zee.php?c=zeecafehd&e=.m3u8
 #EXTINF:-1,&Prive HD 
-http://zee18.site/zee/get.php?channel=andprivehd&e=.m3u8
+http://bolly360.xyz/zee.php?c=andprivehd&e=.m3u8
 #EXTINF:0, ENGLISH MOVIES
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStor
 #EXTINF:0,MOVIES NOW
@@ -453,14 +471,10 @@ http://live.cgtn.com/cctv-d.m3u8
 
 #EXTINF:0,Star sports Select 1
 http://109.169.56.170/hls/starsportsselect1.m3u8
-#EXTINF:0,Fashion TV HD
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/playlist.m3u8
+
 #EXTINF:0,FTV High
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:0,FTV Med
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
-#EXTINF:0,FTV Low
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
 #EXTINF:0,Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:0,Fashion TV Midnite

@@ -65,6 +65,8 @@ http://bolly360.xyz/zee.php?c=andpicssd&e=.m3u8
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/andpictureshd/playlist.m3u8
 #EXTINF:-1,&pictures HD 
 http://bolly360.xyz/zee.php?c=andpicshd&e=.m3u8
+#EXTINF:-1,&pictures jio
+https://iptv.reindeerhost.in.net/panthertv/master.m3u8?id=185&slug=And_Pictures_HD&hash=59e0e40342c5a77208b502051f4d02ca8bc1106c&t=1586855427
 #EXTINF:-1,Zee Bollywood 
 http://bolly360.xyz/zee.php?c=classic&e=.m3u8
 #EXTINF:-1,Zee Bollywood TS

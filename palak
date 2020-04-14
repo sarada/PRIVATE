@@ -27,6 +27,8 @@ http://109.169.56.170/hls/starplus.m3u8
 https://bracnet.iptv.jadoodigital.com/live/star_bharat/chunks.m3u8
 #EXTINF:-1, STAR BHARAT HS
 http://jiocdn.fun/my/h2x.php?c=starbharat&e=.m3u8
+#EXTINF:-1, STAR BHARAT ip
+http://109.169.56.170/hls/lifeok.m3u8|user-agent=oxoo/3.0.1 (Linux;Android 9) ExoPlayerLib/2.7.3
 #EXTINF:-1, SAB TV SD
 https://streamer-1.toffeelive.com/live/sony_sab_576/index.m3u8
 #EXTINF:-1, SAB TV FHD 
@@ -170,6 +172,8 @@ http://bolly360.xyz/zee.php?c=zeenews&e=.m3u8
 http://bolly360.xyz/zee.php?c=hindustan&e=.m3u8
 #EXTINF:-1,Zee Rajasthan
 http://bolly360.xyz/zee.php?c=rajasthan&e=.m3u8
+#EXTINF:-1,ABP GANGA
+https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in_480p/index.m3u8
 #EXTINF:-1,FIRST INDIA RAJASTHAN
 https://m-c03-j2apps.s.llnwi.net/hls/1872.FirstIndiaNewsRajasthan.in_480p/index.m3u8
 #EXTINF:-1,News18 Rajasthan
@@ -208,6 +212,8 @@ https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
 #EXTINF:-1, India Tv
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_3@199237/chunks.m3u8
+#EXTINF:-1, India Tv MX
+https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1, 	NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
 #EXTINF:-1, CNBC Awaaz
@@ -276,6 +282,8 @@ https://bracnet.iptv.jadoodigital.com/live/mtv_beats/chunks.m3u8
 https://streamer-1.toffeelive.com/live/9xm_576/index.m3u8
 #EXTINF:-1, E24
 http://tamilgo.com/planet/planet.php?url=http://163.172.223.102:8081/indialpc@!2/e24/playlist.m3u8
+#EXTINF:-1, E24--
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
 #EXTINF:-1,ZOOM-1
 http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
 #EXTINF:-1,ZOOM-2

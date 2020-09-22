@@ -444,19 +444,19 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3
 #EXTINF:0,CGTN Documentary Aus.
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF :-1,STAR SPORTS A 
+#EXTINF :0,STAR SPORTS A 
 https://bit.ly/2FcWII9
 
 
-#EXTINF :-1,STAR SPORTS B
+#EXTINF :0,STAR SPORTS B
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
 
-#EXTINF :-1,STAR SPORTS C 
+#EXTINF :0,STAR SPORTS C 
 http://iptv.mirrorace.net/vid.php?c=Starh
 
 
-#EXTINF:-1,STAR SPORTS 4
+#EXTINF:0,STAR SPORTS 4
 https://bit.ly/3iSNWxN
 
 

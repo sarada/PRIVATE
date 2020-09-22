@@ -3,15 +3,21 @@
 http://cv.khushitv.xyz/channels.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
 
 
-#EXTINF :-1, IPL-2020-1
+#EXTINF :-1, STAR SPORTS-1
 https://bit.ly/2FcWII9
-#EXTINF :-1, IPL-2020-2
+
+
+#EXTINF :-1, STAR SPORTS-2
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF :-1, IPL-2020-3
+
+
+#EXTINF :-1, STAR SPORTS-3
 http://iptv.mirrorace.net/vid.php?c=Starh
+
 
 #EXTINF:-1,STAR SPORTS1 
 vhttps://bit.ly/3iSNWxN
+
 
 #EXTINF:-1, DD Bharti MX
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8

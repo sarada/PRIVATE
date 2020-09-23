@@ -49,7 +49,7 @@ http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
 http://cv.khushitv.xyz/channels.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
 
 #EXTINF:-1,&xplor HD
-http://three.somee.com/rade/web.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
+http://three.somee.com/web.php?e.m3u8&c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88/&q=v1a1
 
 #EXTINF:-1,&pictures 
 http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
@@ -152,6 +152,8 @@ https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in_480p/index.m3u8
 
 #EXTINF:-1,AAJTAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1, TV9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1,AAJTAK 
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1,SAHARA SAMAY
@@ -162,7 +164,9 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1,Zee business 
 http://cv.khushitv.xyz/channels.php?c=zeebusiness&e=.m3u8
-#EXTINF:-1,Zee News 
+#EXTINF:-1,Zee News A
+http://three.somee.com/rade/web.php?c=zeenews
+#EXTINF:-1,Zee News B
 http://cv.khushitv.xyz/channels.php?c=zeenews&e=.m3u8
 #EXTINF:-1,Zee HINDUSTAN
 http://cv.khushitv.xyz/channels.php?c=hindustan&e=.m3u8
@@ -284,12 +288,25 @@ http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,Zee ETC 
 http://cv.khushitv.xyz/channels.php?c=etc&e=.m3u8
 #EXTINF:-1,Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
-#EXTINF:-1,Kadak Hits
-http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/index_2128_av-p.m3u8
-#EXTINF:-1,Punjabi Tadka 
-http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/index_2128_av-p.m3u8
+https://live.hungama.com/linear/dil-se/chunklist_b828000.m3u8
 
+#EXTINF:-1,Kadak Hits
+https://live.hungama.com/linear/kadak-hits/chunklist_b828000.m3u8
+
+
+#EXTINF:-1,non stop movies
+http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+#EXTINF: -1,Zee Action
+http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
+#EXTINF: -1,Zee BOLLYWOOD
+https://z5amshls.akamaized.net/classic/tracks-v3a1/index.m3u8
+
+#EXTINF:-17,  ZEE CINEMA USA z5
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Star gold 
+http://randomserver.site:2086/riyad/riyad/94775
+#EXTINF:-1,Star gold select
+http://randomserver.site:2086/riyad/riyad/94776
 
 
 
@@ -302,20 +319,17 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1, Dish POSITIVE
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts=st=1586268190~exp=1586271190~acl=/*~hmac=902f48dc1950d9be1a15e04dc8ed2e4c5a03259adf993575ab1904737474b429
 
-#EXTINF:-1,Discovery Kids
-http://streamidvo.multitvsolution.in/live/DiscoveryKidsHindi-a/p4.m3u8
-#EXTINF:-1,NICK
-https://bracnet.iptv.jadoodigital.com/live/nickelodeon/chunks.m3u8
+
+
 #EXTINF:-1,Sony YAY
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 
 
 #EXTINF:-1, Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
-#EXTINF:-1 "Kids",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/04.m3u8
+
 #EXTINF:-1,Cartoon Network
-http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
+  http://av.xemtivinet.net:8080/hls/cartoon/index.m3u8
 #EXTINF:-1,Disney
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Disney Movies
@@ -328,38 +342,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 
 
 
-#EXTINF:0,TLC 
-http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
-#EXTINF:0,FOOD FOOD
-https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:0, Discovery Hindi
-http://streamidvo.multitvsolution.in/live/DiscoveryHindi-a/p3.m3u8
-#EXTINF:0, Sony BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0, Animal Planet HD Hindi
-http://streamidvo.multitvsolution.in/live/APHDHindi-a/p3.m3u8
-#EXTINF:0, 	Discovery ID
-http://streamidvo.multitvsolution.in/Investigation_Discovery-a/playlist.m3u8
-#EXTINF:0,Discovery Science Hindi
-http://streamidvo.multitvsolution.in/live/DiscoverScienceHindi-a/p2.m3u8
-#EXTINF:0,Discovery Science English
-http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-#EXTINF:0,Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-#EXTINF:0,NatGeo Wild
-https://bracnet.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
-#EXTINF:0,NatGeo People
-https://bracnet.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:0, History HD HINDI
-https://bracnet.iptv.jadoodigital.com/live/history_tv_hd/chunks.m3u8
-#EXTINF:0, History 2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/03.m3u8?sd=10&rebase=on
-#EXTINF:0, National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/03.m3u8
-#EXTINF:0 , National Geo Wild
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
-#EXTINF:0 , National Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/03.m3u8
+
 
 
 #EXTINF:0, 	Satsang
@@ -376,8 +359,7 @@ https://sanskarlive.sanskargroup.in/sanskartvlive.m3u8
 http://linear02hun-lh.akamaihd.net/i/bhaktisagar_1@665239/master.m3u8
 
 
-#EXTINF:-1,AXN 
-http://210.210.155.66/h/h141/01.m3u8 
+
 #EXTINF:-1,&Flix HD 
 http://cv.khushitv.xyz/channels.php?c=andflixhd&e=.m3u8
 #EXTINF:-1,MGM US
@@ -396,28 +378,7 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
 #EXTINF:0,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:0, Star World
-https://bracnet.iptv.digijadoo.net/live/star_world/chunks.m3u8
-#EXTINF:0, 	Star Movies Middle east
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8?sd=10&rebase=on
-#EXTINF:0, Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8?sd=10&rebase=on
-#EXTINF:0,Pluto Movies
-http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0,Sony Pix FHD
-https://sony247channels.akamaized.net/hls/live/2009804/PIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdnea=1575646200_e09258cce6514d3deec5608118efddc9"
-#EXTINF:0,Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-2-hd.png" "English",MBC2 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
-#EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-4-hd.png" "English",MBC4 HD
-http://livecdnh3.tvanywhere.ae/hls/mbc4/03.m3u8
-#EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-action-hd.png" "English",MBC Action HD
-http://livecdnh3.tvanywhere.ae/hls/mbcaction/03.m3u8
-#EXTINF:0 tvg-logo="https://www.embratoria.net/uploads/tv_image/mbc-max-hd.png" "English",MBC Max HD
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
-#EXTINF:0, AXN
-http://av.xemtivinet.net:8080/hls/axn/index.m3u8
+
 
 
 
@@ -440,20 +401,64 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3
 #EXTINF:0,CGTN Documentary Aus.
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF:0,STAR SPORTS A 
+#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SONY PACKAGE",SONY HD
+https://bit.ly/3fKTNU8seTHd
+#EXTINF:-1,SONY SAB HD
+https://bit.ly/3fBsABhd
+#EXTINF:-1,SONY PAL
+https://bit.ly/30a3wsONyPal
+#EXTINF:-1,SONY YAY
+https://bit.ly/2WmsoNYYaY
+#EXTINF:-1,SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1,SONY MAX 2
+https://bit.ly/30dsoNYmaX2
+#EXTINF:-1,SONY WAH
+https://bit.ly/3j7sOnywAh
+#EXTINF:-1,SONY PIX HD
+https://bit.ly/32sOnypIXhd
+#EXTINF:-1,SONY TEN 1 HD
+https://bit.ly/2B9tEN1hd
+#EXTINF:-1,SONY TEN 2 HD
+https://bit.ly/2DOtEN2hd
+#EXTINF:-1,SONY TEN 3 HD
+https://bit.ly/2OwtEn3hd
+#EXTINF:-1,SONY TEN 1
+https://bit.ly/2ZtEn1Sd
+#EXTINF:-1,SONY TEN 2
+https://bit.ly/30teN2sd
+#EXTINF:-1,SONY TEN 3
+https://bit.ly/2B9teN3sd
+#EXTINF:-1,SONY SIX
+https://bit.ly/3j8sIx7sd
+#EXTINF:-1,SONY SIX HD
+https://bit.ly/3h6sIXHd
+
+
+
+
+#EXTINF:-1,STAR SPORTS A 
 https://bit.ly/2FcWII9
 
 
-#EXTINF:0,STAR SPORTS B
+#EXTINF:-1,STAR SPORTS B
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
 
-#EXTINF:0,STAR SPORTS C 
+#EXTINF:-1,STAR SPORTS C 
 http://iptv.mirrorace.net/vid.php?c=Starh
 
 
-#EXTINF:0,STAR SPORTS 4
+#EXTINF:-1,STAR SPORTS D
 https://bit.ly/3iSNWxN
+#EXTINF:-1,SKY SPORTS CRICKET
+http://f.ok2.se:8000/victor1/victor123/205
+#EXTINF:-1,WILLOW CRICKET HD
+http://66.northerniptv.ca:8000/golden123/golden123/198
+#EXTINF:-1,STAR SPORTS HINDI
+http://66.northerniptv.ca:8000/live/golden123/golden123/201.m3u8
+#EXTINF:-1,STAR SPORTS HINDI
+http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 
 
 

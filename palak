@@ -1,15 +1,11 @@
 #EXTM3U 
-#EXTINF:-1,DD Bharti Zee
-http://cv.khushitv.xyz/channels.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
 
-#EXTINF:-1, DD Bharti MX
-https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
-
-#EXTINF:-1, DD National HD Zee
-http://cv.khushitv.xyz/channels.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
-
-#EXTINF:-1,DD National MX
-https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+#EXTINF:-1,CINEPLEX HD
+http://198.255.87.59:8080/INDIA_HINDI/CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1,UTV MOVIES
+http://198.255.87.59:8080/INDIA_HINDI/UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1,UTV HD
+http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF:-1,SHEMAROO TV
 https://cdn.live.shemaroome.com:443/shemarootv/selshemarootv_1_701/chunklist.m3u8
@@ -81,13 +77,24 @@ http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 
 #EXTINF:-1,SONY WAH 
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index_dvr.m3u8
+#EXTINF:-1,SONY WAH Airtel
+https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b314000_sleng.m3u8
+
 
 #EXTINF:-1,SET MAX HD
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index_dvr.m3u8
+
+#EXTINF:-1,SET MAX
+https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+
+
 
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1, Sony MAX2 Airtel
+https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+
 
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
@@ -149,6 +156,19 @@ https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 #EXTINF:-1, ANJAN TV
 https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in_480p/index.m3u8
 
+#EXTINF:-1,DD Bharti Zee
+http://cv.khushitv.xyz/channels.php?c=out/v1/03d04d1461114e9083d382ab0054ac2c&e=.m3u8
+
+#EXTINF:-1, DD Bharti MX
+https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_480p/index.m3u8
+
+#EXTINF:-1, DD National HD Zee
+http://cv.khushitv.xyz/channels.php?c=out/v1/061be0ece7a849939ac2d9031f8fc532&e=index_6.m3u8
+
+#EXTINF:-1,DD National MX
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
+
+
 
 #EXTINF:-1,AAJTAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
@@ -165,7 +185,7 @@ https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1,Zee business 
 http://cv.khushitv.xyz/channels.php?c=zeebusiness&e=.m3u8
 #EXTINF:-1,Zee News A
-http://three.somee.com/rade/web.php?c=zeenews
+http://three.somee.com/rade/web.php?c=zeenews&e=.m3u8
 #EXTINF:-1,Zee News B
 http://cv.khushitv.xyz/channels.php?c=zeenews&e=.m3u8
 #EXTINF:-1,Zee HINDUSTAN
@@ -453,12 +473,20 @@ http://iptv.mirrorace.net/vid.php?c=Starh
 https://bit.ly/3iSNWxN
 #EXTINF:-1,SKY SPORTS CRICKET
 http://f.ok2.se:8000/victor1/victor123/205
+#EXTINF:-1,STAR SPORTS E
+http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
+
+
 #EXTINF:-1,WILLOW CRICKET HD
 http://66.northerniptv.ca:8000/golden123/golden123/198
 #EXTINF:-1,STAR SPORTS HINDI
 http://66.northerniptv.ca:8000/live/golden123/golden123/201.m3u8
 #EXTINF:-1,STAR SPORTS HINDI
 http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
+#EXTINF:-1, IPL ADFREE
+http://66.northerniptv.ca:8000/golden123/golden123/81947
+#EXTINF:-1, BEIN SPORTS
+http://66.northerniptv.ca:8000/golden123/golden123/74478
 
 
 

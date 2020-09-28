@@ -489,7 +489,7 @@ http://livetv.grabdeal.xyz/starsports1
 #EXTINF:-1,STAR SPORTS H
 https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
 #EXTINF:-1,STAR SPORTS I
-http://89.187.169.200:2200/EX/starsports1hd-in/index.m3u8?token=null
+http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=null
 
 
 #EXTINF:-1,WILLOW CRICKET HD
@@ -501,7 +501,7 @@ http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1, IPL ADFREE
 http://66.northerniptv.ca:8000/golden123/golden123/81947
 #EXTINF:-1, BEIN SPORTS
-http://66.northerniptv.ca:8000/golden123/golden123/74478
+http://livetv.grabdeal.xyz/beinsport1
 
 
 

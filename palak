@@ -428,78 +428,35 @@ http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w1659750600.m3
 #EXTINF:0,CGTN Documentary Aus.
 http://live.cgtn.com/cctv-d.m3u8
 
-#EXTINF:0,tvg-id="" tvg-name="" tvg-language="hindi"  tvg-country="IN" tvg-url="" group-title="SONY PACKAGE",SONY HD
-https://bit.ly/3fKTNU8seTHd
-#EXTINF:-1,SONY SAB HD
-https://bit.ly/3fBsABhd
-#EXTINF:-1,SONY PAL
-https://bit.ly/30a3wsONyPal
-#EXTINF:-1,SONY YAY
-https://bit.ly/2WmsoNYYaY
-#EXTINF:-1,SONY MAX HD
-https://bit.ly/32bsOnymAXhd
-#EXTINF:-1,SONY MAX 2
-https://bit.ly/30dsoNYmaX2
-#EXTINF:-1,SONY WAH
-https://bit.ly/3j7sOnywAh
-#EXTINF:-1,SONY PIX HD
-https://bit.ly/32sOnypIXhd
-#EXTINF:-1,SONY TEN 1 HD
-https://bit.ly/2B9tEN1hd
-#EXTINF:-1,SONY TEN 2 HD
-https://bit.ly/2DOtEN2hd
-#EXTINF:-1,SONY TEN 3 HD
-https://bit.ly/2OwtEn3hd
-#EXTINF:-1,SONY TEN 1
-https://bit.ly/2ZtEn1Sd
-#EXTINF:-1,SONY TEN 2
-https://bit.ly/30teN2sd
-#EXTINF:-1,SONY TEN 3
-https://bit.ly/2B9teN3sd
-#EXTINF:-1,SONY SIX
-https://bit.ly/3j8sIx7sd
-#EXTINF:-1,SONY SIX HD
-https://bit.ly/3h6sIXHd
 
 
 
 
-#EXTINF:-1,STAR SPORTS A 
-https://bit.ly/2FcWII9
 
 
-#EXTINF:-1,STAR SPORTS B
-http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 
 
-#EXTINF:-1,STAR SPORTS C 
-http://iptv.mirrorace.net/vid.php?c=Starh
-
-
-#EXTINF:-1,STAR SPORTS D
-https://bit.ly/3iSNWxN
 #EXTINF:-1,SKY SPORTS CRICKET
-http://f.ok2.se:8000/victor1/victor123/205
+http://82.165.162.104:25461/live/inside4ndroid/739411/15.m3u8
 #EXTINF:-1,STAR SPORTS E
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
 #EXTINF:-1,STAR SPORTS F
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
 #EXTINF:-1,STAR SPORTS G
 http://livetv.grabdeal.xyz/starsports1
-#EXTINF:-1,STAR SPORTS H
-https://serve151.r.worldssl.net/cricket/star1/chunks.m3u8
+#EXTINF:-1,AU SPORTS
+http://51.158.152.216:8090/FT/15/index.m3u8?token=Y2Y1NTU0ZTNmN2NlZjdkZjZjMzRlMjQ3NmM3MGQ3M2U6MTYwMTMwMTIyNA==
 #EXTINF:-1,STAR SPORTS I
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=null
 
 
 #EXTINF:-1,WILLOW CRICKET HD
-http://66.northerniptv.ca:8000/golden123/golden123/198
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/10631
 #EXTINF:-1,STAR SPORTS HINDI
-http://66.northerniptv.ca:8000/live/golden123/golden123/201.m3u8
-#EXTINF:-1,STAR SPORTS HINDI
-http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/3979
+
 #EXTINF:-1, IPL ADFREE
-http://66.northerniptv.ca:8000/golden123/golden123/81947
+http://mypanel.tv:8080/carter123424/SsFNP3g6VF/5431
 #EXTINF:-1, BEIN SPORTS
 http://livetv.grabdeal.xyz/beinsport1
 

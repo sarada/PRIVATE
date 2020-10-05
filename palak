@@ -432,26 +432,27 @@ http://live.cgtn.com/cctv-d.m3u8
 
 
 
-
-
-#EXTINF:-1,STAR SPORTS D
+#EXTINF:-1,STAR SPORTS 101
+https://rebrand.ly/star-sports-hindi-new1
+#EXTINF:-1,STAR SPORTS 102
 http://198.144.149.201:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/playlist.m3u8?token=test
-#EXTINF:-1,SKY SPORTS CRICKET
+#EXTINF:-1,SKY SPORTS CRICKET-2
+https://rebrand.ly/sky-sports-cricket-2
+#EXTINF:-1,SKY SPORTS CRICKET-1
 http://82.165.162.104:25461/live/inside4ndroid/739411/15.m3u8
-#EXTINF:-1,STAR SPORTS E
+#EXTINF:-1,STAR SPORTS 103
 http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
 #EXTINF:-1,STAR SPORTS F
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=
-#EXTINF:-1,STAR SPORTS G
+#EXTINF:-1,STAR SPORTS 104
 http://livetv.grabdeal.xyz/starsports1
 #EXTINF:-1,AU SPORTS
 http://51.158.152.216:8090/FT/15/index.m3u8?token=Y2Y1NTU0ZTNmN2NlZjdkZjZjMzRlMjQ3NmM3MGQ3M2U6MTYwMTMwMTIyNA==
-#EXTINF:-1,STAR SPORTS I
+#EXTINF:-1,STAR SPORTS 105
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,STAR SPORTS 03-10-2020
-https://fs10.bonsaiprolink.xyz/ipl/bonsaihd.m3u8
-#EXTINF:-1,STAR SPORTS K-
-http://152.67.228.135:7002/live/iamstreaming.m3u8
+#EXTINF:-1,STAR SPORTS 107
+
+#EXTINF:-1,STAR SPORTS 106
 
 #EXTINF:-1,WILLOW CRICKET HD
 http://mypanel.tv:8080/carter123424/SsFNP3g6VF/10631

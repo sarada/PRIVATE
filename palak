@@ -429,18 +429,16 @@ http://live.cgtn.com/cctv-d.m3u8
 
 
 
-#EXTINF:-1,STAR SPORTS 101
-http://anytv.live:8080/live/saiful/saiful/347.m3u8
-#EXTINF:-1,STAR SPORTS 102
-http://198.144.149.201:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/playlist.m3u8?token=test
+#EXTINF:-1,STAR SPORTS SD
+https://noobiez.co/tv/starsp1.m3u8
+
 #EXTINF:-1,IPL-1
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1,IPL-2
-http://midesi2.hopto.org:8001/tv2.m3u8
+
 #EXTINF:-1,IPL-3
 http://164.132.160.137/hls/stream.m3u8
-#EXTINF:-1,AU SPORTS
-http://51.158.147.174:8090/FT/15/index.m3u8?token=ZTM4NWIyNDM3OWQ5NWNmY2RiY2Y2Y2VhOTRmYTcwZGU6MTYwMTk5MzgxOA==
+#EXTINF:-1,SS SPORTS
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 #EXTINF:-1,STAR SPORTS 105
 http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=null
 #EXTINF:-1,STAR SPORTS 107
@@ -448,12 +446,11 @@ http://198.255.87.59:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m
 #EXTINF:-1,STAR SPORTS 106
 http://167.172.144.206:8080/hls/.m3u8
 #EXTINF:-1,WILLOW CRICKET HD
-http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/10631.m3u8
-#EXTINF:-1,STAR SPORTS HINDI
-http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/3979.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+
 
 #EXTINF:-1, IPL ADFREE
-http://mypanel.tv:8080/live/carter123424/SsFNP3g6VF/5431.m3u8
+http://45.134.21.253/hls/cric.m3u8
 #EXTINF:-1, BEIN SPORTS
 http://livetv.grabdeal.xyz/beinsport1
 

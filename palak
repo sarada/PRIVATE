@@ -1,11 +1,7 @@
 #EXTM3U 
 
-#EXTINF:-1,CINEPLEX HD
-http://198.255.87.59:8080/INDIA_HINDI/CINEPLEX_HD/tracks-v1a1/mono.m3u8?token=test
-#EXTINF: -1,UTV MOVIES
-http://198.255.87.59:8080/INDIA_HINDI/UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
-#EXTINF: -1,UTV HD
-http://198.255.87.59:8080/INDIA_HINDI/UTV_HD/tracks-v1a1/mono.m3u8?token=test
+
+
 
 #EXTINF:-1,SHEMAROO TV
 https://cdn.live.shemaroome.com:443/shemarootv/selshemarootv_1_701/chunklist.m3u8
@@ -16,18 +12,25 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 #EXTINF:-1, ZEE TV HD 
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
-#EXTINF:-1, SAB TV HD
+#EXTINF:-1, SAB TV HD MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
+#EXTINF:-1, SAB TV HD LIV
+https://bit.ly/3fBsABhd
 
 
-#EXTINF:-1, SONY HD 
+
+#EXTINF:-1, SONY HD MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
-#EXTINF:-1, COLORS HD
-http://199.66.92.35:8080/sw_HINDI_COLORS_HD_us/playlist.m3u8?token=test
+#EXTINF:-1,SONY HD LIV
+https://bit.ly/3fKTNU8seTHd
 
 
-#EXTINF:-1, SONY PAL
+
+
+#EXTINF:-1, SONY PAL MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
+#EXTINF:-1,SONY PAL LIV
+https://bit.ly/30a3wsONyPal
 
 
 #EXTINF:-1,Big magic 
@@ -78,14 +81,18 @@ http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 
-#EXTINF:-1,SONY WAH 
+#EXTINF:-1,SONY WAH MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index.m3u8
+#EXTINF:-1,SONY WAH LIV
+https://bit.ly/3j7sOnywAh
 #EXTINF:-1,SONY WAH Airtel
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b314000_sleng.m3u8
 
 
-#EXTINF:-1,SET MAX HD
+#EXTINF:-1,SET MAX HD MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
+#EXTINF:-1,SONY MAX HD LIV
+https://bit.ly/32bsOnymAXhd
 
 #EXTINF:-1,SET MAX
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
@@ -94,6 +101,8 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
+#EXTINF:-1,SONY MAX 2 LIV
+https://bit.ly/30dsoNYmaX2
 #EXTINF:-1, Sony MAX2 Airtel
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1, MINIPLEX HD
@@ -132,6 +141,7 @@ https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
 
 #EXTINF:-1, Bollywood.in
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 
 #EXTINF:-1, Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8

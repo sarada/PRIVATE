@@ -10,47 +10,52 @@ https://cdn.live.shemaroome.com:443/shemarootv/selshemarootv_1_701/chunklist.m3u
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1, ZEE TV HD 
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
+https://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+(http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8)
 
-#EXTINF:-1, SAB TV HD MX
+
+#EXTINF:-1, STAR PLUS HD
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+#EXTINF:-1, STAR BHARAT HD
+http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+
+#EXTINF:-1, SAB TV HD 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
-#EXTINF:-1, SAB TV HD LIV
-https://bit.ly/3fBsABhd
 
 
-
-#EXTINF:-1, SONY HD MX
+#EXTINF:-1, SONY HD 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
-#EXTINF:-1,SONY HD LIV
-https://bit.ly/3fKTNU8seTHd
 
 
 
 
 #EXTINF:-1, SONY PAL MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
-#EXTINF:-1,SONY PAL LIV
-https://bit.ly/30a3wsONyPal
+
 
 
 #EXTINF:-1,Big magic 
 http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
 
+
 #EXTINF:-1,ZEE ANMOL 
 http://cv.khushitv.xyz/channels.php?c=zeeanmol&e=.m3u8
 
+
 #EXTINF:-1,&TV 
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+
 
 #EXTINF:-1,&TV HD
 http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
 
 
-#EXTINF:-1,&xplor HD Zee
-http://cv.khushitv.xyz/channels.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8
 
 #EXTINF:-1,&xplor HD
-http://three.somee.com/web.php?e.m3u8&c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88/&q=v1a1
+http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+
+(http://three.somee.com/web.php?e.m3u8&c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88/&q=v1a1)
+(http://cv.khushitv.xyz/channels.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=index_6.m3u8)
 
 #EXTINF:-1,&pictures 
 http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
@@ -58,6 +63,9 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 
 #EXTINF:-1,&pictures HD 
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
+
+#EXTINF:-1,CINEPLEX HD
+https://wxca.cf/j/Colors_Cineplex_HD/master.m3u8?signature=71c563eadccd82f5b77c1591d7986d5c3c803709&unique=83d1402d58a19879145815c8257d9598
 
 #EXTINF:-1,&pictures HD Z
 http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
@@ -83,16 +91,16 @@ http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
 
 #EXTINF:-1,SONY WAH MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_720p/index.m3u8
-#EXTINF:-1,SONY WAH LIV
-https://bit.ly/3j7sOnywAh
+
+
 #EXTINF:-1,SONY WAH Airtel
 https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b314000_sleng.m3u8
 
 
 #EXTINF:-1,SET MAX HD MX
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_720p/index.m3u8
-#EXTINF:-1,SONY MAX HD LIV
-https://bit.ly/32bsOnymAXhd
+
+
 
 #EXTINF:-1,SET MAX
 https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
@@ -101,14 +109,18 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1, Sony MAX2 MX
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-#EXTINF:-1,SONY MAX 2 LIV
-https://bit.ly/30dsoNYmaX2
+
+
 #EXTINF:-1, Sony MAX2 Airtel
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-#EXTINF:-1, MINIPLEX HD
-http://185.246.210.53:2200/R-EX/HINDI_MINIPLEX_HD-in/index.m3u8?token=null
+
+
 #EXTINF:-1, STAR GOLD HD
-http://185.246.210.54:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=null
+http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
+
+
+#EXTINF:-1, STAR GOLDSELECT HD
+http://dx3.gcdn.co/hindi-StargoldselectHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -118,7 +130,7 @@ https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playl
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
 
-#EXTINF:-1, BOLLYWOOD CLASSIC-2 
+#EXTINF:-1, CLASSIC BOLLYWOOD
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 
 #EXTINF:-1, Manoranjan Movies
@@ -314,11 +326,10 @@ http://cv.khushitv.xyz/channels.php?c=zing&e=.m3u8
 
 
 
-#EXTINF:-1, E24--
+#EXTINF:-1, E24
 https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in_360p/index.m3u8
-#EXTINF:-1,ZOOM-1
-http://livecdnh1.tvanywhere.ae/hls/zoom/04.m3u8
-#EXTINF:-1,ZOOM-2
+
+#EXTINF:-1,ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,MUSIC INDIA
 http://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
@@ -347,8 +358,7 @@ http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
 
 
 
-#EXTINF:-1,Dsports HD 
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+
 
 #EXTINF:-1, Dish POSITIVE
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/corona/corona.isml/index.m3u8?hdnts=st=1586268190~exp=1586271190~acl=/*~hmac=902f48dc1950d9be1a15e04dc8ed2e4c5a03259adf993575ab1904737474b429
@@ -440,30 +450,24 @@ http://live.cgtn.com/cctv-d.m3u8
 
 
 #EXTINF:-1,STAR SPORTS SD
-https://noobiez.co/tv/starsp1.m3u8
-
+http://113.11.39.68/Niaz2020/Niaz2020/661?token=GhBaAkILQwgRAAxVDlcAUgJXWFEAVA8ODFMFDFAOAlYEBQcBCVpSCgNHFRNFQkdSUQ9mD1ASAgAOVxoXEUUDFD5bVkELQVkFBUcVE0JfWFISWAhQBAMADgFTAwxIFBYPBRAIQQJTVwsDRxUTU05BUkIMWAprVF1AUQVTF15YEwoNHhAMXzwFV14EV1UUDBcHEk4bD0dAGgxWE1pZSBQEDxVAUxdUQVsQAlMJBhQaF1RfF1cSRkkaDBoveBdIFAMeFVdcEFgMDxAJR01CFBoXXkM9SwNHREpTWQtTR0YMRFZDHhAOUBs+UVwLV1RVQlxYXhEbXBYBGhoaC1lbDUIJFD5CWwcTWUMLAlAbTA==
 #EXTINF:-1,IPL-1
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
-#EXTINF:-1,IPL-3
-http://164.132.160.137/hls/stream.m3u8
-#EXTINF:-1,SS SPORTS
-http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
-#EXTINF:-1,STAR SPORTS 105
-http://89.187.169.203:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=null
-#EXTINF:-1,STAR SPORTS 107
-http://198.255.87.59:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8?token=test
+
+
+
+
 #EXTINF:-1,STAR SPORTS 106
 http://167.172.144.206:8080/hls/.m3u8
-#EXTINF:-1,WILLOW CRICKET HD
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+
 
 
 #EXTINF:-1, IPL ADFREE
 http://45.134.21.253/hls/cric.m3u8
 #EXTINF:-1, BEIN SPORTS
-http://livetv.grabdeal.xyz/beinsport1
-
+http://ny5p2086.securepoint.io/streaming/clients_live.php?username=arellano&password=kgtL965n2Y&stream=94788&extension=ts&token=TREMWUEJGlxBV1cEVFNbAARQBABWAwcCBARaWlVXAVFTVVIBAlRaUFBDShFEQUtSVw5vDwcXDwwHAQBbSURFQVNBO1FWQwJEUlJXAQcHChUaQUQPDlAXDwIACFBdXgkBDgpIGkIIXERZQ1IAAwUOAxRPEgMbQVBHXVdUPAEDRltVVkYCXBRUCk9DCV1oUVxaVw1URFkXBRcfFFEQFUQKXENfCBQQA1ESEQASVhUPGwYAUwRETxdWWkZYTBEcRAoQf31GFBAEQBIGDxVaWFsbDRQXQ0RPF1xGbERdEBEUVVNbVhYaCEMIRE9DC1JPalpYWA1VBRdcWltAFAJBVkQcEFtcClFGDko5EwgCEQ0XCAcBVwRVQUg=
 
 
 

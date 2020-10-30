@@ -139,7 +139,9 @@ https://load.airtelxstream.in/enterr10movies/smil:common.smil/chunklist.m3u8
 
 
 #EXTINF:-1,Shemaroo BOLLYWOOD PREMIER 
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8
+
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
+(https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/playlist_cf.m3u8)
 
 #EXTINF:-1,Shemaroo BOLLYWOOD CLASSIC
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/playlist_cf.m3u8
@@ -214,7 +216,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index.m3u8
 
 
 #EXTINF:-1,AAJTAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+http://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+(https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8)
 #EXTINF:-1,ABP NEWS HD
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1, TV9 Bharatvarsh
@@ -224,6 +227,7 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1,SAHARA SAMAY
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
 #EXTINF:-1,Republic Bharat 
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/republicbharat/republicbharat.isml/republicbharat-audio_208482_und=208000-video=877600.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1581100145~exp=1581103145~acl=/*~hmac=cac2baa47ca75f31f770cf160ceab80d71868569e1068731569968afbfcd624d
 #EXTINF:-1,Zee business 
 http://cv.khushitv.xyz/channels.php?c=zeebusiness&e=.m3u8
@@ -333,7 +337,9 @@ https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 #EXTINF:-1, TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
 #EXTINF:-1,Mastii
+https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?DVR
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,9XM 
 https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8
@@ -362,6 +368,7 @@ http://cv.khushitv.xyz/channels.php?c=etc&e=.m3u8
 https://live.hungama.com/linear/dil-se/chunklist_b828000.m3u8
 
 #EXTINF:-1,Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 https://live.hungama.com/linear/kadak-hits/chunklist_b828000.m3u8
 
 

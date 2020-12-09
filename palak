@@ -3,24 +3,25 @@
 
 #EXTINF:-1,ASTRO CRICKET
 http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR SPORTS 1
-http://amr4k.us:8080/live/514/514/40502.m3u8
-#EXTINF:-1,STAR SPORTS 2
-http://amr4k.us:8080/live/514/514/46632.m3u8
-#EXTINF:-1,IPL-1
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1,BEIN-13
-http://imnotdead.live:8080/live/4AbGMsfDAE/MsaMJJco9I/86212.m3u8
-#EXTINF:-1, IPL ADFREE
-https://watchindia.net:8443/live/68653/13548/1072.m3u8
-#EXTINF:-1, IPL TV
-https://tivimateplaylists.live/hotstarN
-#EXTINF:-1, IPL-2
-https://tivimateplaylists.live/hotstar-2N
-#EXTINF:-1, SS HINDI
+#EXTINF:-1,STAR SPORTS HINDI TS
+https://botallen.live/t/24/master.m3u8?signature=225d8d5cbec5751003be33fcd1d8eb4fb147c6ca&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1,STAR SPORTS ENGLISH TS
+https://botallen.live/t/78/master.m3u8?signature=e7533044d7243044407bf9f31539b4074289b43a&unique=d2044828ae86b7dcc388bf4b21325485
+
+
+
+
+
+
+
+
+#EXTINF:-1, STAR SPORTS HINDI
 https://tivimateplaylists.live/starsportshindin
-#EXTINF:-1, BEIN SPORTS
-http://31.220.0.135:8080/live/KTWAB65o5C/otSyfsbJwR/86212.m3u8
+#EXTINF:-1, SONY SIX HD
+https://botallen.live/j/Six_HD/master.m3u8?signature=e1dc42e04b0a470bd4acfa0c6463d7be899eb1d6&unique=d2044828ae86b7dcc388bf4b21325485
+
+
+
 
 
 
@@ -33,18 +34,27 @@ https://cdn.live.shemaroome.com:443/shemarootv/selshemarootv_1_701/chunklist.m3u
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
 #EXTINF:-1, ZEE TV TS
-https://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+https://botallen.live/z/0-9-zeetv/master.m3u8?signature=c617ca2410ad9c61935fba935fe7826ea9e485bf&unique=d2044828ae86b7dcc388bf4b21325485
 #EXTINF:-1, ZEE TV HD
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
 
-#EXTINF:-1, STAR PLUS HD
+#EXTINF:-1, STAR PLUS HD TS
+https://botallen.live/t/8/master.m3u8?signature=9d57d82559f3228d611a6098168c0e7dc1602f7f&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1, STAR PLUS 
 http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 
-#EXTINF:-1, STAR BHARAT HD
+#EXTINF:-1, STAR BHARAT HD TS
+https://botallen.live/t/244/master.m3u8?signature=5dbcfd3bcc8fe1556ff0f3a140424ded1ba7590e&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1, STAR BHARAT 
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
 
-#EXTINF:-1, COLORS HD
+
+#EXTINF:-1, COLORS HD TS
+https://botallen.live/t/52/master.m3u8?signature=96029b9b233b57728e7aa21517b7fa3f04c52cb4&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1, COLORS HD VOOT
+https://tivimateplaylists.video/colorshdddddd
+#EXTINF:-1, COLORS
 http://dx3.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, SAB TV HD 
@@ -53,17 +63,19 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 
 #EXTINF:-1, SONY HD TS
 http://dx3.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, SONY HD 
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in.m3u8
+https://botallen.live/j/Sony_HD/master.m3u8?signature=0930f7af8fed535b667c1ba23265ea3f8a3a9606&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 
 
 
-#EXTINF:-1, SONY PAL MX
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
+#EXTINF:-1, SONY PAL 
+https://botallen.live/j/Sony_Pal/master.m3u8?signature=a4e217bef0c5781faafa282c5b0866dcb610be35&unique=d2044828ae86b7dcc388bf4b21325485
 
-
+#EXTINF:-1, ARRE HD
+https://botallen.live/j/Arre/master.m3u8?signature=84ed8ebfd003dc1f0df0e70c0c3a3823696aa04a&unique=d2044828ae86b7dcc388bf4b21325485
 
 #EXTINF:-1,Big magic 
 http://cv.khushitv.xyz/channels.php?c=bigmagic&e=.m3u8
@@ -79,11 +91,15 @@ http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 
 #EXTINF:-1,&TV HD
 http://cv.khushitv.xyz/channels.php?c=andtvhd&e=.m3u8
+#EXTINF:-1,SAB HD TS
+https://botallen.live/j/Sony_SAB_HD/master.m3u8?signature=2e10f1e01f9b8a17e25d003b33c53d438d34ea67&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1,SAB HD ATL
+https://tivimateplaylists.video/sonysabhdairteldthminipack
 
 
 
-#EXTINF:-1,&xplor HD
-http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1,&xplor HD-1
+https://botallen.live/z/0-9-209/master.m3u8?signature=256593a5567ef0ab642d28280c6fd73c86af595d&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 #EXTINF:-1,&xplor HD
@@ -94,6 +110,8 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 
 
 #EXTINF:-1,&pictures HD 
+https://botallen.live/z/0-9-tvpictureshd/master.m3u8?signature=bf6dc0237f2a94ca7fe7435195c71092b0fb2a7c&unique=d2044828ae86b7dcc388bf4b21325485
+
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
 #EXTINF:-1,CINEPLEX HD
@@ -120,8 +138,9 @@ http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=out/v1/74df8b02f8ab47909d
 http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 
 
-#EXTINF:-1,ZEE cinema HD 1
-http://afaceinthecrowd.000webhostapp.com/z52m3u.php?id=zcinemahd
+#EXTINF:-1,ZEE cinema HD TS
+https://botallen.live/t/503/master.m3u8?signature=3876d25174b3499dcb877a5165b45f0379f4db3c&unique=d2044828ae86b7dcc388bf4b21325485
+
 #EXTINF:-1,ZEE cinema HD 2
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,ZEE CINEMA HD
@@ -146,23 +165,40 @@ https://load.airtel.tv/sonymax/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 
 #EXTINF:-1, Sony MAX2 MX
-https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_480p/index.m3u8
-
+https://botallen.live/j/Sony_MAX2/master.m3u8?signature=5171409e4390061c519fb0ca01c26a8e967c7ed4&unique=d2044828ae86b7dcc388bf4b21325485
 
 #EXTINF:-1, Sony MAX2 Airtel
 https://load.airtel.tv/sonymax2/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 
-#EXTINF:-1, STAR GOLD HD
+#EXTINF:-1, STAR GOLD HD TS
+https://botallen.live/t/632/master.m3u8?signature=969ff005ad4007574d7f8b0ed046076e54c4fcc8&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1, STAR GOLD 
 http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8
+#EXTINF:-1, UTV HD
+https://tivimateplaylists.live/utvhdd
+#EXTINF:-1, UTV ACTION
+https://tivimateplaylists.live/utvactionsd
+#EXTINF:-1, UTV MOVIES
+https://tivimateplaylists.live/utvmoviesss
+#EXTINF:-1, BOLLYWOOD PREMIERE
+https://tivimateplaylists.live/TATASKYBOLLYWOODHDDD
+
 
 
 #EXTINF:-1, STAR GOLDSELECT HD
+https://tivimateplaylists.video/stargoldselectairteldthminipacke3c24
+#EXTINF:-1, STAR GOLDSELECT
 http://dx3.gcdn.co/hindi-StargoldselectHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, GEM BOLLYWOOD
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 
 
 #EXTINF:-1, ENTER-10 MOVIES
-https://load.airtelxstream.in/enterr10movies/smil:common.smil/chunklist.m3u8
+https://botallen.live/t/194/master.m3u8?signature=70cf29c077ead4478550ee7229fb66547767016c&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1, CINEMA TV
+https://botallen.live/t/182/master.m3u8?signature=cbf3d37ebaf65b48a52839c3bd51a5f4e295a925&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 
@@ -319,6 +355,8 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:-1, Sudarshan News
 http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
+#EXTINF:-1, PATRIKA RAJASTHAN
+https://botallen.live/t/5/master.m3u8?signature=13c2749d85a18ccbc4f51ed0b1cfb3d32b246b7e&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 
@@ -328,7 +366,9 @@ http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
 #EXTINF:-1, 	NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
 #EXTINF:-1, CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1607524491~acl=%2f*~data=hdntl~hmac=4e7fe647a8652f11c701d609b5502b5c49f9784a717841768cc1c87d4363e40b
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1, 	ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,AL-JAZEERA
@@ -344,7 +384,7 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1,CNN News 18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1,Wion News
-https://load.airtelxstream.in/wion/smil:common.smil/chunklist.m3u8
+https://botallen.live/j/Wion/master.m3u8?signature=cd4bb24e150724d6f675ac2a16133e13095680af&unique=d2044828ae86b7dcc388bf4b21325485
 
 #EXTINF:-1,Bloomberg Quint
 http://cv.khushitv.xyz/channels.php?c=bquint&e=.m3u8
@@ -363,18 +403,25 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 #EXTINF:-1, TIMES NOW
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
+#EXTINF:-1, HISTORY 18 HINDI
+https://botallen.live/j/History_18_Hindi/master.m3u8?signature=edc61d891d439bdb9c6b806c61222909d1628a96&unique=d2044828ae86b7dcc388bf4b21325485
 
 
 
 
-#EXTINF:-1,Mastii
-https://load.airtelxstream.in/mastiii/smil:common.smil/playlist.m3u8?DVR
+
+#EXTINF:-1,SHOWBOX
+https://botallen.live/z/0-9-219/master.m3u8?signature=1d1fef71cce56683deeb4463940f6afacd213348&unique=d2044828ae86b7dcc388bf4b21325485
 #EXTINF:-1,9XM 
-https://load.airtelxstream.in/9xm/smil:common.smil/chunklist.m3u8
+https://botallen.live/z/0-9-131/master.m3u8?signature=180529aa25ba22f6ebf66b332186ac49ca6790a7&unique=d2044828ae86b7dcc388bf4b21325485
 #EXTINF:-1,9XM JALWA
 https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist.m3u8
 #EXTINF:-1,9XM MX
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1,9XM-2
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,MTV BEATS HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1, B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
 #EXTINF:-1,ZING 
@@ -469,6 +516,11 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+#EXTINF:-1,HBO Jio
+https://botallen.live/j/HBO_HD/master.m3u8?signature=de81aac95041e5af016a60dff13ce1dd2233925b&unique=d2044828ae86b7dcc388bf4b21325485
+#EXTINF:-1,WB
+https://botallen.live/j/WB/master.m3u8?signature=e8545e80baa7a08c3ae917aff557282a038ad99a&unique=d2044828ae86b7dcc388bf4b21325485
+
 
 
 

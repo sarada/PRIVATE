@@ -1,8 +1,7 @@
 #EXTM3U 
 
 
-#EXTINF:-1,ASTRO CRICKET
-http://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,STAR SPORTS HINDI TS
 https://botallen.live/t/24/master.m3u8?signature=225d8d5cbec5751003be33fcd1d8eb4fb147c6ca&unique=d2044828ae86b7dcc388bf4b21325485
 #EXTINF:-1,STAR SPORTS ENGLISH TS
@@ -41,28 +40,24 @@ http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
 #EXTINF:-1, STAR PLUS HD TS
 https://botallen.live/t/8/master.m3u8?signature=9d57d82559f3228d611a6098168c0e7dc1602f7f&unique=d2044828ae86b7dcc388bf4b21325485
-#EXTINF:-1, STAR PLUS 
-http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
+
 
 #EXTINF:-1, STAR BHARAT HD TS
 https://botallen.live/t/244/master.m3u8?signature=5dbcfd3bcc8fe1556ff0f3a140424ded1ba7590e&unique=d2044828ae86b7dcc388bf4b21325485
-#EXTINF:-1, STAR BHARAT 
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+
 
 
 #EXTINF:-1, COLORS HD TS
 https://botallen.live/t/52/master.m3u8?signature=96029b9b233b57728e7aa21517b7fa3f04c52cb4&unique=d2044828ae86b7dcc388bf4b21325485
 #EXTINF:-1, COLORS HD VOOT
 https://tivimateplaylists.video/colorshdddddd
-#EXTINF:-1, COLORS
-http://dx3.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, SAB TV HD 
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in.m3u8
 
 
-#EXTINF:-1, SONY HD TS
-http://dx3.gcdn.co/hindi-SONYHD/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1, SONY HD 
 https://botallen.live/j/Sony_HD/master.m3u8?signature=0930f7af8fed535b667c1ba23265ea3f8a3a9606&unique=d2044828ae86b7dcc388bf4b21325485

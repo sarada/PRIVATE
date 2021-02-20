@@ -33,6 +33,7 @@ https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8?H
 #EXTINF:-1,SHEMAROO TV
 https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/chunklist_b1628000_sleng.m3u8
 
+
 #EXTINF:-1, Epic tv
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
@@ -458,6 +459,8 @@ https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-133&oauth=c3Q9MTYwNzc2NDcyNX5leHA9
 
 #EXTINF:-1,9XM MX
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:-1,SHEMAROO Music
+https://livechannel.shemaroome.com/linearplayout/test-linear-channel/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1,9XM-2
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
@@ -575,10 +578,26 @@ https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
 #EXTINF:-1,HBO 
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
-
-
-
-
+#EXTINF:-1,UTSAV GOLD
+https://mhdtvworld.live/delta/flix/max.php?id=4060365&e=.m3u8
+#EXTINF:-1,UTSAV Mvies
+https://jiocdn.fun/redBXxxX.php?id=2772&e=.m3u8
+#EXTINF:-1,xplor
+https://saalamatv.fun/zee5/getplay.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88
+#EXTINF:-1,xplor-1
+https://saalamatv.fun/zee5/getplay.php?c=out/v1/525714a3beef4b6a8eac1ca96ffd8f88&e=.m3u8
+#EXTINF:-1,earth-1 scr
+https://jiocdn.fun/stream.php?stream=http://zer0live.hjkm.info:11991/juno/sonyearthhd/l_91646386_211520_34.ts&nimblesessionid=1456992&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIxIDE6MTI6MTYgUE0maGFzaF92YWx1ZT0rWXByUnlEemdHdjRZc3I3bWw1WXdBPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,earth-2 red box
+https://jiocdn.fun/redBXxxX.php?id=2788&e=.m3u8
+#EXTINF:-1,max2
+https://mhdtvworld.live/delta/flix/max.php?id=40614&e=.m3u8
+#EXTINF:-1,star plus red box
+https://jiocdn.fun/redbXxxX.php?id=3076&e=.m3u8
+#EXTINF:-1,star plus
+https://jiocdn.fun/stream.php?stream=http://zer0live.hjkm.info:11991/juno/starbharat/l_90316717_73926200_2352.ts&nimblesessionid=1223146&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIxIDE6NDk6MzcgUE0maGFzaF92YWx1ZT1GazZzUCtHRzhlbUo5bDN1N2N1RWl3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,star gold 2
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8?expires=1613934116&md5=g77HN27kFCbo28W5dgzqgw&user=9335626110e9411cb7f7bf19657c21a7
 
 
 

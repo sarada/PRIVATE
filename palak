@@ -126,8 +126,7 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HI
 
 #EXTINF:-1,&xplor HD Zee
 https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-209&oauth=c3Q9MTYwNzc2NDcyNX5leHA9MTYwNzc2NTcyNX5hY2w9LypobWFjPTNjNTc0NzdiMmFhODRjYzFiYTk4OTU1NWZmMjdmNjE5NmNkNTgxMTcyMzI2ZmRlMmY5N2VjN2FmMTdmNzkzNmE=
-#EXTINF:-1,&xplor HD Zee
-http://sky4.ddns.net:8000/live/zohaib/luckyg/1428.m3u8
+
 
 #EXTINF:-1,&pictures 
 http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
@@ -137,19 +136,17 @@ http://cv.khushitv.xyz/channels.php?c=andpicssd&e=.m3u8
 #EXTINF:-1,&pictures HD 
 http://cv.khushitv.xyz/channels.php?c=andpicshd&e=.m3u8
 
-#EXTINF:-1,CINEPLEX HD A
-http://sky4.ddns.net:8000/live/zohaib/luckyg/1446.m3u8
+
 #EXTINF:-1,CINEPLEX HD B
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://185.246.210.50:2200/R-EX/HINDI_CINEPLEX_HD-in/index.m3u8?token=RED
-#EXTINF:-1,CINEPLEX
-http://sky4.ddns.net:8000/live/zohaib/luckyg/1446.m3u8
+
 
 
 
 
 
 #EXTINF:-1,Zee Bollywood 
-http://cv.khushitv.xyz/channels.php?c=classic2&e=.m3u8
+http://cv.khushitv.xyz/channels.php?c=classic&e=.m3u8
 
 
 
@@ -168,7 +165,7 @@ http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
 
 
 #EXTINF:-1,ZEE cinema HD 
-http://rv.therevenge.co/live/11223344/11223344/83709.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zcinemahd/playlist.m3u8
 
 #EXTINF:-1,ZEE CINEMA HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&e=.m3u8
@@ -337,7 +334,7 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3
 #EXTINF:-1,News18 Rajasthan
 https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_5_av-p.m3u8
 #EXTINF:-1,Zee MP-CG
-http://cv.khushitv.xyz/channels.php?c==newsmpcg&e=.m3u8
+http://cv.khushitv.xyz/channels.php?c=newsmpcg&e=.m3u8
 #EXTINF:-1, ABP NEWS
 https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1, Amar Ujala 
@@ -357,9 +354,8 @@ https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 
 #EXTINF:-1,VTV live
 https://cdn.smartstream.video/smartstream-us/vtvlive/vtvlive/chunklist_w1694613322.m3u8
+
 #EXTINF:-1, 	News 24
-https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
-#EXTINF:-1, 	News 24-
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
 
 #EXTINF:-1, 	News NATION 
@@ -379,10 +375,9 @@ https://playhls.media.nic.in/live/ddkisan/index.m3u8
 #EXTINF:-1, Rajyasabha
 https://nicls2-lh.akamaihd.net/i/rstv_1@26970/index_1_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1, ABP MAJHA 
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master_314.m3u8
 #EXTINF:-1, Sudarshan News
-http://sudarshan.live/hls/sudarshannews/index.m3u8?_=1582988583335
-
+https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w717453185.m3u8
 
 
 
@@ -457,7 +452,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
 #EXTINF:-1,MTV BEATS HD 
-http://rv.therevenge.co/live/11223344/11223344/83649.m3u8
+http://rv.therevenge.co/11223344/11223344/83649
 #EXTINF:-1,MTV BEATS--
 https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/mtvbeats/playlist.m3u8
 #EXTINF:-1,MTV BEATS HD VOOT
